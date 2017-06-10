@@ -3,7 +3,7 @@
 #### `Full Stack Developer`
 
 ## Summary
-Loves Internet and `<coding>`. A strong believer in quality and as well as in the fact that programming has no language. Personal portfolio: http://atulmy.com
+Loves Internet and `<coding>`. A strong believer in quality and in the fact that programming has no language. Personal portfolio: http://atulmy.com
 
 ## Experience
 - #### Technology & Design Lead at [Crowd Product](https://crowdproduct.com/)
