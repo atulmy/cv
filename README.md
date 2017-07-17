@@ -6,12 +6,8 @@
 Loves Internet and `<coding>`. A strong believer in quality and in the fact that programming has no language. Personal portfolio: http://atulmy.com
 
 ## Experience
-- #### Technology & Design Lead at [Crowd Product](https://crowdproduct.com/)
-    *April 2016 - present*
-    > Responsible for the technology, product and design. Also contributing to sales, marketing and support.
-    
 - #### Senior Software Engineer at [Noonic](http://noonic.com/)
-    *October 2014 - April 2016 (1 year 6 months)*
+    *October 2014 - present*
     > Conceptualize, assess, design, develop, test Web and Mobile applications using primarily Linux, Apache, MySQL, PHP (using PHP frameworks such as Symfony2, Laravel 5) Javascript (using Javascript frameworks such as JQuery, AngularJS, etc) CSS/3, HTML/5, UI frameworks such as Twitter Bootstrap, JQuery UI, MaterializeCSS, etc.
 
 - #### Software Engineer at [Network 18](http://www.network18online.com/)
