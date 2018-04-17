@@ -6,9 +6,13 @@
 Loves Internet and `<coding>`. A strong believer in quality and in the fact that programming has no language. Personal portfolio: http://atulmy.com
 
 ## Experience
+- #### Full-stack Developer at Contract / Open Source
+    *October 2017 - present*
+    > Freelance / contract projects. Open source libraries, tutorials, boilerplates, opinionated frameworks and more.
+
 - #### Senior Software Engineer at [Noonic](http://noonic.com/)
-    *October 2014 - present*
-    > Conceptualize, assess, design, develop, test Web and Mobile applications using primarily Linux, Apache, MySQL, PHP (using PHP frameworks such as Symfony2, Laravel 5) Javascript (using Javascript frameworks such as JQuery, AngularJS, etc) CSS/3, HTML/5, UI frameworks such as Twitter Bootstrap, JQuery UI, MaterializeCSS, etc.
+    *October 2014 - October 2017*
+    > Conceptualize, assess, design, develop, test Web and Mobile applications using primarily Linux, Apache, MySQL, MongoDB, NodeJS (using frameworks such as ExpressJS), PHP (using frameworks such as Symfony2, Laravel 5) Javascript (using frameworks/libraries such as React, Redux, JQuery, AngularJS, etc) CSS/3, HTML/5, UI frameworks such as Twitter Bootstrap, JQuery UI, MaterializeCSS. Tools such as Teamwork, Slack, JIRA, Invision, Adobe Photoshop, etc. with Agile Methodologies.
 
 - #### Software Engineer at [Network 18](http://www.network18online.com/)
     *October 2012 - September 2014 (2 years)*
@@ -20,10 +24,10 @@ Loves Internet and `<coding>`. A strong believer in quality and in the fact that
 
 ## Skills & Expertise
 - #### Frontend
-    HTML &bull; CSS &bull; JavaScript &bull; ES2015 &bull; React &bull; Redux &bull; jQuery &bull; AJAX &bull; AngularJS &bull; MeteorJS &bull; Twitter Bootstrap &bull; MaterialzeCSS &bull; Material Design &bull; SemanticUI
+    HTML &bull; CSS &bull; JavaScript &bull; ES2015 &bull; React &bull; Redux &bull; jQuery &bull; AJAX &bull; AngularJS &bull; MeteorJS &bull; Twitter Bootstrap &bull; MaterialzeCSS &bull; Material Design &bull; SemanticUI &bull; Cordova &bull; PhoneGap &bull; React Native 
 
 - #### Backend
-    NodeJS &bull; ExpressJS &bull; PHP &bull; MySQL &bull; LAMP &bull; Laravel Framework &bull; Symfony Framework &bull; MongoDB &bull; JSON &bull; XML &bull; NodeJS &bull; ExpressJS &bull; SOAP &bull; REST
+    NodeJS &bull; ExpressJS &bull; PHP &bull; MySQL &bull; LAMP &bull; Laravel Framework &bull; Symfony Framework &bull; MongoDB &bull; JSON &bull; XML &bull; NodeJS &bull; ExpressJS &bull; SOAP &bull; REST &bull; GraphQL
 
 - #### Tools
     Git &bull; SVN &bull; GitHub &bull; Bitbucket &bull; JIRA &bull; Slack &bull; Adobe Photoshop &bull; Microsoft Office &bull; Linux &bull; Invision &bull; Teamwork
