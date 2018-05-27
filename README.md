@@ -27,7 +27,7 @@ Loves Internet and `<coding>`. A strong believer in quality and in the fact that
     HTML &bull; CSS &bull; JavaScript &bull; ES2015 &bull; React &bull; Redux &bull; jQuery &bull; AJAX &bull; AngularJS &bull; MeteorJS &bull; Twitter Bootstrap &bull; MaterialzeCSS &bull; Material Design &bull; SemanticUI &bull; Cordova &bull; PhoneGap &bull; React Native 
 
 - #### Backend
-    NodeJS &bull; ExpressJS &bull; PHP &bull; MySQL &bull; LAMP &bull; Laravel Framework &bull; Symfony Framework &bull; MongoDB &bull; JSON &bull; XML &bull; NodeJS &bull; ExpressJS &bull; SOAP &bull; REST &bull; GraphQL
+    NodeJS &bull; ExpressJS &bull; GraphQL &bull; PHP &bull; MySQL &bull; MongoDB &bull; LAMP &bull; Laravel Framework &bull; Symfony Framework &bull; JSON &bull; XML &bull; SOAP &bull; REST 
 
 - #### Tools
     Git &bull; SVN &bull; GitHub &bull; Bitbucket &bull; JIRA &bull; Slack &bull; Adobe Photoshop &bull; Microsoft Office &bull; Linux &bull; Invision &bull; Teamwork
