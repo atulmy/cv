@@ -41,7 +41,7 @@ Loves Internet and `<coding>`. A strong believer in quality and in the fact that
     > Grade: 61%
 
 - #### College - [I.C.L. Motital Jhunhunwala](www.iclesmj.edu.in/)
-    *Higher School Certificate - Science, 2004 - 2006*
+    *Higher Secondary School Certificate - Science, 2004 - 2006*
     > Grade: 74.30%
 
 - #### School - [I.E.S.](http://www.ies.edu/)
