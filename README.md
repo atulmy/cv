@@ -53,7 +53,7 @@ Loves Internet and `<coding>`. A strong believer in quality and in the fact that
 - Hindi *(Native or bilingual proficiency)*
 
 ## Interests
-Electronics &bull; Robotics &bull; Programming &bull; Designing &bull; Web Development &bull; Cycling &bull; Reading
+Skateboarding &bull; Electronics &bull; Robotics &bull; Programming &bull; Designing &bull; Web Development &bull; Cycling &bull; Reading
 
 ## Contact
 Email: [atul.12788@gmail.com](mailto:atul.12788@gmail.com)
