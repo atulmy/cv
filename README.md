@@ -3,12 +3,12 @@
 #### `Full Stack Developer`
 
 ## Summary
-Loves Internet and `<coding>`. A strong believer in quality and in the fact that programming has no language. Personal portfolio: http://atulmy.com
+Loves Internet and `<coding>`. A strong believer in quality and in the fact that programming has no language.
 
 ## Experience
-- #### Full-stack Developer at Contract / Open Source
+- #### Full-Stack Developer at [WIP.Studio](https://wip.studio)
     *October 2017 - present*
-    > Freelance / contract projects. Open source libraries, tutorials, boilerplates, opinionated frameworks and more.
+    > End-to-end development of mobile and web applications. Prototype, Design, Architecture, Development, DevOps, Publish on the App and Play stores. Open source libraries, tutorials, boilerplates, opinionated frameworks and more. Collaboration with Graphic Designers and Digital Marketing teams.
 
 - #### Senior Software Engineer at [Noonic](http://noonic.com/)
     *October 2014 - October 2017*
@@ -58,7 +58,6 @@ Electronics &bull; Robotics &bull; Programming &bull; Designing &bull; Web Devel
 
 ## Contact
 [![Email](http://atulmy.com/attachments/icons/Email.png "Email: atul.12788@gmail.com")](mailto:atul.12788@gmail.com) 
-[![Portfolio](http://atulmy.com/attachments/icons/WWW.png "Portfolio: atulmy.com")](https://in.linkedin.com/in/atulmy) 
 [![LinkedIn](http://atulmy.com/attachments/icons/Linked-in.png "LinkedIn Profile")](https://in.linkedin.com/in/atulmy) 
 [![Twitter](http://atulmy.com/attachments/icons/Twitter.png "Twitter @atulmy")](https://twitter.com/atulmy) 
 [![Skype](http://atulmy.com/attachments/icons/Skype.png "Stype: atul.12788")](skype:atul.12788)
