@@ -51,15 +51,14 @@ Loves Internet and `<coding>`. A strong believer in quality and in the fact that
 ## Languages
 - English *(Full professional proficiency)*
 - Hindi *(Native or bilingual proficiency)*
-- Italian *(Basic understanding and speaking)*
 
 ## Interests
 Electronics &bull; Robotics &bull; Programming &bull; Designing &bull; Web Development &bull; Cycling &bull; Reading
 
 ## Contact
-[![Email](http://atulmy.com/attachments/icons/Email.png "Email: atul.12788@gmail.com")](mailto:atul.12788@gmail.com) 
-[![LinkedIn](http://atulmy.com/attachments/icons/Linked-in.png "LinkedIn Profile")](https://in.linkedin.com/in/atulmy) 
-[![Twitter](http://atulmy.com/attachments/icons/Twitter.png "Twitter @atulmy")](https://twitter.com/atulmy) 
-[![Skype](http://atulmy.com/attachments/icons/Skype.png "Stype: atul.12788")](skype:atul.12788)
-[![Instagram](http://atulmy.com/attachments/icons/Instgram.png "Instagram: atulmy")](https://instagram.com/atulmy/) 
-[![Facebook](http://atulmy.com/attachments/icons/Facebook.png "Facebook Profile")](https://www.facebook.com/atulmy)
+Email: [atul.12788@gmail.com](mailto:atul.12788@gmail.com)
+
+Skype: [atul.12788](skype:atul.12788) 
+
+## Social
+[LinkedIn](https://in.linkedin.com/in/atulmy) &bull; [Twitter](https://twitter.com/atulmy) &bull; [Instagram](https://instagram.com/atulmy/) &bull; [Facebook](https://www.facebook.com/atulmy)
