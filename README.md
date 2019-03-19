@@ -61,4 +61,4 @@ Email: [atul.12788@gmail.com](mailto:atul.12788@gmail.com)
 Skype: [atul.12788](skype:atul.12788) 
 
 ## Social
-[LinkedIn](https://in.linkedin.com/in/atulmy) &bull; [Twitter](https://twitter.com/atulmy) &bull; [Instagram](https://instagram.com/atulmy/) &bull; [Facebook](https://www.facebook.com/atulmy)
+[LinkedIn](https://in.linkedin.com/in/atulmy) &bull; [Twitter](https://twitter.com/atulmy) &bull; [Instagram](https://instagram.com/atulmy/)
