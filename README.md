@@ -3,9 +3,13 @@
 #### `Full Stack Developer`
 
 ## Summary
-Loves Internet and `<coding>`. A strong believer in quality and in the fact that programming has no language.
+👨‍💻 Code, 🎨 Design, 🎮 Gaming and 🛹 Skateboarding. Collaborating with micro-entrepreneurs, small and medium scale businesses to build their next ideas.
 
 ## Experience
+- #### CTO at [CocoonHQ](https://cocoonhq.com)
+    *May 2020 - present*
+    > Cocoon is an all-in-one micro-business platform that helps creators and experts across domains to become successful entrepreneurs.
+
 - #### Full-Stack Developer at [WIP.Studio](https://wip.studio)
     *October 2017 - present*
     > End-to-end development of mobile and web applications. Prototype, Design, Architecture, Development, DevOps, Publish on the App and Play stores. Open source libraries, tutorials, boilerplates, opinionated frameworks and more. Collaboration with Graphic Designers and Digital Marketing teams.
@@ -61,4 +65,4 @@ Email: [atul.12788@gmail.com](mailto:atul.12788@gmail.com)
 Skype: [atul.12788](skype:atul.12788) 
 
 ## Social
-[LinkedIn](https://in.linkedin.com/in/atulmy) &bull; [Twitter](https://twitter.com/atulmy) &bull; [Instagram](https://instagram.com/atulmy/)
+[LinkedIn](https://in.linkedin.com/in/atulmy) &bull; [Twitter](https://twitter.com/atulmy) &bull; [Instagram](https://instagram.com/atulmy/) &bull; [Goodreads](https://www.goodreads.com/user/show/4785546-atul-yadav)
