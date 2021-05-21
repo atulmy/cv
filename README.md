@@ -6,9 +6,9 @@
 👨‍💻 Code, 🎨 Design, 🎮 Gaming and 🛹 Skateboarding. Collaborating with micro-entrepreneurs, small and medium scale businesses to build their next ideas.
 
 ## Experience
-- #### CTO at [CocoonHQ](https://cocoonhq.com)
+- #### CTO at [Helptap](https://www.helptap.com)
     *May 2020 - present*
-    > Cocoon is an all-in-one micro-business platform that helps creators and experts across domains to become successful entrepreneurs.
+    > HelpTap provides all the resources — knowledge, tools, experts, and capital — to talented entrepreneurs looking to validate, build, and grow their business ideas.
 
 - #### Full-Stack Developer at [WIP.Studio](https://wip.studio)
     *October 2017 - present*
