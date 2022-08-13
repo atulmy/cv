@@ -1,9 +1,13 @@
 # Atul Yadav 
 
-#### `Full Stack Developer`
+#### 👨‍💻 Code, 🎨 Design, 🎮 Gaming and 🛹 Skateboarding
 
 ## Summary
-👨‍💻 Code, 🎨 Design, 🎮 Gaming and 🛹 Skateboarding. Collaborating with micro-entrepreneurs, small and medium scale businesses to build their next ideas.
+<ins>Entrepreneur</ins> and <ins>Full-Stack engineer</ins> with more than 10 years of experience in building and scaling world-class SaaS products across multiple domains. Worked with many startups and micro-entrepreneurs from ideation to growth phase.
+
+Co-Founded and built ✍️ [Rytr.me](https://rytr.me) - AI writing assistant that helps you create high-quality content, in just a few seconds and scaled to more than 1.5 million users.
+
+Co-Founded and built 🎥 [Fliki.ai](https://fliki.ai) - Lifelike Text to Speech & Text to Video converter that helps you create audio and video content using AI voices in less than a minute.
 
 ## Experience
 - #### Co-Founder at [Nine Thirty Five](https://ninethirtyfive.llc)
@@ -18,7 +22,7 @@
     *October 2017 - February 2021 (3 years)*
     > End-to-end development of mobile and web applications. Prototype, Design, Architecture, Development, DevOps, Publish on the App and Play stores. Open source libraries, tutorials, boilerplates, opinionated frameworks and more. Collaboration with Graphic Designers and Digital Marketing teams.
 
-- #### Senior Software Engineer at [Noonic](http://noonic.com/)
+- #### Senior Software Engineer at [Noonic](http://noonic.com)
     *October 2014 - October 2017 (3 years)*
     > Conceptualize, assess, design, develop, test Web and Mobile applications using primarily Linux, Apache, MySQL, MongoDB, NodeJS (using frameworks such as ExpressJS), PHP (using frameworks such as Symfony2, Laravel 5) Javascript (using frameworks/libraries such as React, Redux, JQuery, AngularJS, etc) CSS/3, HTML/5, UI frameworks such as Twitter Bootstrap, JQuery UI, MaterializeCSS. Tools such as Teamwork, Slack, JIRA, Invision, Adobe Photoshop, etc. with Agile Methodologies.
 
