@@ -22,15 +22,15 @@ Co-Founded and built 🎥 [Fliki.ai](https://fliki.ai) - Lifelike Text to Speech
     *October 2017 - February 2021 (3 years)*
     > End-to-end development of mobile and web applications. Prototype, Design, Architecture, Development, DevOps, Publish on the App and Play stores. Open source libraries, tutorials, boilerplates, opinionated frameworks and more. Collaboration with Graphic Designers and Digital Marketing teams.
 
-- #### Senior Software Engineer at [Noonic](http://noonic.com)
+- #### Software Engineering Lead at [Noonic](http://noonic.com)
     *October 2014 - October 2017 (3 years)*
     > Conceptualize, assess, design, develop, test Web and Mobile applications using primarily Linux, Apache, MySQL, MongoDB, NodeJS (using frameworks such as ExpressJS), PHP (using frameworks such as Symfony2, Laravel 5) Javascript (using frameworks/libraries such as React, Redux, JQuery, AngularJS, etc) CSS/3, HTML/5, UI frameworks such as Twitter Bootstrap, JQuery UI, MaterializeCSS. Tools such as Teamwork, Slack, JIRA, Invision, Adobe Photoshop, etc. with Agile Methodologies.
 
-- #### Software Engineer at [Network 18](http://www.network18online.com/)
+- #### Senior Software Engineer at [Network 18](http://www.network18online.com/)
     *October 2012 - September 2014 (2 years)*
     > Design and Developement of Application in Linux, Apache, MySQL and PHP (LAMP) areas.
 
-- #### Software Developer at [Fermion Infotech](http://fermioninfotech.com/)
+- #### Software Engineer at [Fermion Infotech](http://fermioninfotech.com/)
     *September 2010 - October 2012 (2 years)*
     > Website Development, Website Designing, Database Designing
 
