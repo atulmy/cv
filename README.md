@@ -6,16 +6,20 @@
 👨‍💻 Code, 🎨 Design, 🎮 Gaming and 🛹 Skateboarding. Collaborating with micro-entrepreneurs, small and medium scale businesses to build their next ideas.
 
 ## Experience
-- #### CTO at [Helptap](https://www.helptap.com)
-    *May 2020 - present*
-    > HelpTap provides all the resources — knowledge, tools, experts, and capital — to talented entrepreneurs looking to validate, build, and grow their business ideas.
+- #### Co-Founder at [Nine Thirty Five](https://ninethirtyfive.llc)
+    *December 2021 - present*
+    > Mindfully crafting products that delight our customers.
 
-- #### Full-Stack Developer at [WIP.Studio](https://wip.studio)
-    *October 2017 - present*
+- #### Co-Founder & CTO at [Rytr](https://rytr.me)
+    *March 2021 - present*
+    > Rytr is an AI-powered writing tool that helps you create high-quality content, in just a few seconds. Used by more than 2 million users.
+
+- #### Full-Stack Developer at WIP.Studio
+    *October 2017 - February 2021 (3 years)*
     > End-to-end development of mobile and web applications. Prototype, Design, Architecture, Development, DevOps, Publish on the App and Play stores. Open source libraries, tutorials, boilerplates, opinionated frameworks and more. Collaboration with Graphic Designers and Digital Marketing teams.
 
 - #### Senior Software Engineer at [Noonic](http://noonic.com/)
-    *October 2014 - October 2017*
+    *October 2014 - October 2017 (3 years)*
     > Conceptualize, assess, design, develop, test Web and Mobile applications using primarily Linux, Apache, MySQL, MongoDB, NodeJS (using frameworks such as ExpressJS), PHP (using frameworks such as Symfony2, Laravel 5) Javascript (using frameworks/libraries such as React, Redux, JQuery, AngularJS, etc) CSS/3, HTML/5, UI frameworks such as Twitter Bootstrap, JQuery UI, MaterializeCSS. Tools such as Teamwork, Slack, JIRA, Invision, Adobe Photoshop, etc. with Agile Methodologies.
 
 - #### Software Engineer at [Network 18](http://www.network18online.com/)
@@ -23,7 +27,7 @@
     > Design and Developement of Application in Linux, Apache, MySQL and PHP (LAMP) areas.
 
 - #### Software Developer at [Fermion Infotech](http://fermioninfotech.com/)
-    *September 2010 - October 2012 (2 years 1 month)*
+    *September 2010 - October 2012 (2 years)*
     > Website Development, Website Designing, Database Designing
 
 ## Skills & Expertise
