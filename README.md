@@ -10,9 +10,9 @@ Co-Founded and built ✍️ [Rytr.me](https://rytr.me) - AI writing assistant th
 Co-Founded and built 🎥 [Fliki.ai](https://fliki.ai) - Lifelike Text to Speech & Text to Video converter that helps you create audio and video content using AI voices in less than a minute.
 
 ## Experience
-- #### Co-Founder at [Nine Thirty Five](https://ninethirtyfive.llc)
-    *December 2021 - present*
-    > Mindfully crafting products that delight our customers.
+- #### Co-Founder at [Fliki](https://fliki.ai)
+    *January 2022 - present*
+    > Fliki is a lifelike text-to-speech & text-to-video converter that helps you create audio and video content using AI voices in less than a minute.
 
 - #### Co-Founder & CTO at [Rytr](https://rytr.me)
     *March 2021 - present*
